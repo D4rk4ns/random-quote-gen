@@ -6,3 +6,5 @@ This is a code repository just for learning using the corresponding video tutori
 
 Setup:
 - run ```npm i && npm start``` to start the development server
+
+Live Demo: https://d4rk4ns.github.io/random-quote-gen/
